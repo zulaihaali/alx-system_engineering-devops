@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 9
+rm -rf /tmp/my_first_directory
